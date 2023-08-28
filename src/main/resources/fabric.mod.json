@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "karpheesstory",
+	"version": "${version}",
+	"name": "Karphee's Story",
+	"description": "Dingueries incoming",
+	"authors": [
+		"Théos"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/karpheesstory/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.theos.karpheesstory.KarpheesStory"
+		],
+		"client":  [
+			"net.theos.karpheesstory.KarpheesStoryClient"
+		],
+		"fabric-datagen": [
+			"net.theos.karpheesstory.KarpheesStoryDataGenerator"
+		]
+	},
+	"mixins": [
+		"karpheesstory.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.22",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
