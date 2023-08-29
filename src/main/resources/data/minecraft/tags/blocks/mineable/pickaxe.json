@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values":[
+    "karpheesstory:ruby_block",
+    "karpheesstory:raw_ruby_block",
+    "karpheesstory:ruby_ore",
+    "karpheesstory:deepslate_ruby_ore"
+  ]
+}

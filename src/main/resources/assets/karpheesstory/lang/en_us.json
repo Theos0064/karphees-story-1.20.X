@@ -1,0 +1,13 @@
+{
+  "item.karpheesstory.ruby" : "Ruby",
+  "item.karpheesstory.painite_shard" : "Painite Shard",
+  "item.karpheesstory.charged_netherite" : "Charged Netherite",
+
+  "block.karpheesstory.ruby_block": "Block of Ruby",
+  "block.karpheesstory.raw_ruby_block": "Block of Raw Ruby",
+
+  "block.karpheesstory.ruby_ore": "Ruby Ore",
+  "block.karpheesstory.deepslate_ruby_ore": "Deepslate Ruby Ore",
+
+  "itemgroup.ruby": "Ruby Test Group"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item":"karpheesstory:ruby_block"
+    }
+  ],
+  "result": {
+    "item": "karpheesstory:ruby",
+    "count": 9
+  }
+}
